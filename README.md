@@ -14,11 +14,10 @@ Also half this code is copied from online aye so best not to copy plz thx plzplz
 
 **TABLE OF CONTENTS (not in any specific order btw)**
 <br>
-1. 
+1. Variable Types
 <br>
-2.c The different kind of loops
-<br>
-    - 2.2 For Loops
-<br>
+2.1.c For Loops
+2.2.c While Loops
+2.3.c Do While Loops
 <br>
 3.c Pointer Demonstration, basic swap function
