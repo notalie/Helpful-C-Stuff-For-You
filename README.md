@@ -15,9 +15,13 @@ Also half this code is copied from online aye so best not to copy plz thx plzplz
 **TABLE OF CONTENTS (not in any specific order btw)**
 <br>
 1. Variable Types
+<br>
 2.1. For Loops
+<br>
 2.2. While Loops
+<br>
 2.3. Do While Loops
+<br>
 3. Pointer Demonstration & basic swap function
 <!-- 4.1 Struct basics
 4.2 Struct pointers
