@@ -10,9 +10,9 @@
  ||      /    \)___)\
  | \____(      )___) )___
   \______(_______;;; __;;;
-"I'm so tired"
-The purpose of this code is to show how pointers work and how they can 
-be used to change variables without the need to return them
+    "I'm so tired"
+    The purpose of this code is to show how pointers work and how they can 
+    be used to change variables without the need to return them
 */
 
 #include <stdio.h>
@@ -33,7 +33,7 @@ void swap2(int* a, int* b) {
     *b = temp;
 }
 
-int main() {
+int main(int argc, char** argv) {
     int a = 1;
     int b = 2;
     printf("Initial Values:\t A: %d\t B: %d\n", a, b);
@@ -45,4 +45,5 @@ int main() {
     //After this swap the numbers will change because we passed in a pointer 
     //to the values
     printf("After Swap 2:\t A: %d\t B: %d\n", a, b);
+    return 0;
 }
