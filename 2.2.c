@@ -23,7 +23,7 @@
 int main(int argc, char** argv) {
     /*
         A WHILE loop is similar to a FOR loop 
-        RECALL: for(Setup; Test; Update) {} - for loop structure
+        RECALL: for(Setup; Test; Update) {} - For loop structure
         With a while loop instead of having an Update or Setup we 
         instead only have a Test variable making it possible to create our own 
         Updates and conditions to be a while loop. 
