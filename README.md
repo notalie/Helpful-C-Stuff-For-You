@@ -3,10 +3,10 @@
  <br>
  <br>
 **Please do not copy any of this code for your assignments this is just really simple stuff and 100% chance someone has already copied it.
-This code exists for the sole purpose of demonstrating C's functionality. I did not put any of this code on my assignments either.**
+This code exists for the sole purpose of demonstrating C's functionality.**
 
 <br>
-(づ｡◕‿‿◕｡)づ Anyways...
+(づ｡◕‿◕｡)づ Anyways...
 <br>
 
 **TABLE OF CONTENTS (not in any specific order btw)**
